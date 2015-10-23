@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            XPMGla
 locale:           en_US
 url:
 
@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: XPMGla
+  name: 
   avatar: logo.jpg
   bio: "Killing it since 2015."
   email:
