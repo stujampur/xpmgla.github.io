@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: 
+  name:
   avatar: logo.jpg
-  bio: "Killing it since 2015."
+  bio: ""
   email:
   disqus-shortname:
   twitter: #username

@@ -1,9 +1,9 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "An overview of the group's activities"
+tags: []
 image:
-  feature: cover.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: cover2.jpg
+  credit: Drew Coffman
+  creditlink: https://www.flickr.com/photos/drewcoffman/4887266287
 ---
