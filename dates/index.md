@@ -11,7 +11,7 @@ image:
 
 ## Next meeting
 
-The first meeting of the XPM Gla group will take place on the **5th of February, in the Stella Lab between 3 and 5pm**. We hope that anyone interested in joining the group will come along and introduce themselves, following which we will be going for a drink at the Curler's Inn, to which everyone is also welcome.
+The first meeting of the XPM Gla group will take place on the **5th of February, in the Stella Lab between 3 and 5pm**. We hope that anyone interested in joining the group will come along and introduce themselves, following which we will be going for a drink at the Curler's Rest, to which everyone is also welcome.
 
 ## Upcoming meetings
 
