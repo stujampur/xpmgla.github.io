@@ -1,7 +1,7 @@
 ---
 layout: home
 excerpt: "An overview of the group's activities"
-tags: []
+tags: [dates]
 image:
   feature: cover2.jpg
   credit: Drew Coffman
