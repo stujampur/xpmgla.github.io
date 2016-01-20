@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A brief introduction"
+author: stujampur
 excerpt: "An outline for the immediate future, some goals, and an invitation."
 tags: [roadmap, cross-disciplinary, social]
 comments: true
@@ -25,7 +26,7 @@ and potentially prompting avenues of collaboration and/or the
 sharing of best practice. The sessions will, however, be malleable
 to the needs of the group as we move forward.
 
-Our introductory session will take place on 29th of January. It will
+Our introductory session will take place on 5th of February 2016. It will
 involve some informal introductions, and a chance to start work on your individual or group project. We will also be going for a
 drink afterwards at The Curler's Rest (we will probably continue
 this tradition after each session).
