@@ -6,12 +6,12 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-What we talk about when we talk about “experimental methods” – we mean new avenues of enquiry and innovative approaches; we mean engaging with digital and analogue technologies (as tools and/or subject); we mean interdisciplinary collaboration; we mean public engagement and projects with impact. We take the assertion that ‘the true method of knowledge is experiment’ as our *raison d’être* [^1].
+What we talk about when we talk about “experimental methods” – we mean new avenues of enquiry and innovative approaches; we mean engaging with digital and analogue technologies (as tools and/or subject); we mean interdisciplinary collaboration; we mean public engagement and projects with impact. We take the assertion that ‘the true method of knowledge is experiment’ as our *raison d’être*. [^1]
 
 [^1]: William Blake, All Religions are One (1788).
 
 <br />
-We exist under the auspices of the humanities, somewhere between the subjective approach of experimental arts practice and the objective approach of scientific experimentation. Our aim is to carve out a space for progressive process- and media-based scholarship where ‘there is no such thing as a failed experiment, only experiments with unexpected outcomes.’ [^2]
+We exist under the auspices of the humanities, somewhere between the subjective approach of experimental arts practice and the objective approach of scientific experimentation. Our aim is to carve out a space for progressive process- and media-based scholarship where ‘there is no such thing as a failed experiment, only experiments with unexpected outcomes.’ [^2].
 
 [^2]: R. Buckminster Fuller.
 

@@ -2,7 +2,7 @@
 
 title:            XPMGla
 locale:           en_US
-url: 
+url:
 
 
 # Jekyll configuration
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name:
   avatar: logo.jpg
-  bio: "Welcome to the website for the Experimental Methods in the Humanities at Glasgow"
+  bio: 
   email:
   disqus-shortname:
   twitter: #username
