@@ -11,7 +11,7 @@ What we talk about when we talk about “experimental methods” – we mean new
 [^1]: William Blake, All Religions are One (1788).
 
 <br />
-We exist under the auspices of the humanities, somewhere between the subjective approach of experimental arts practice and the objective approach of scientific experimentation. Our aim is to carve out a space for progressive process- and media-based scholarship where ‘there is no such thing as a failed experiment, only experiments with unexpected outcomes.’ [^2].
+We exist under the auspices of the humanities, somewhere between the subjective approach of experimental arts practice and the objective approach of scientific experimentation. Our aim is to carve out a space for progressive process- and media-based scholarship where ‘there is no such thing as a failed experiment, only experiments with unexpected outcomes.’ [^2]
 
 [^2]: R. Buckminster Fuller.
 
