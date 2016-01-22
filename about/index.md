@@ -4,10 +4,6 @@ title: About the Group
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
-image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 What we talk about when we talk about “experimental methods” – we mean new avenues of enquiry and innovative approaches; we mean engaging with digital and analogue technologies (as tools and/or subject); we mean interdisciplinary collaboration; we mean public engagement and projects with impact. We take the assertion that ‘the true method of knowledge is experiment’ as our *raison d’être* [^1].
