@@ -16,7 +16,7 @@ We exist under the auspices of the humanities, somewhere between the subjective 
 [^2]: R. Buckminster Fuller.
 
 <br />
-The group for experimental methods in the humanities at Glasgow draws its inspiration from and is linked to the group for experimental methods in the humanities at Columbia. Our aim is to work in parallel, finding points of convergence wherever and whenever possible.
+The group for experimental methods in the humanities at Glasgow draws its inspiration from and is linked to the [group for Experimental Methods in the Humanities at Columbia University](http://xpmethod.plaintext.in/). Our aim is to work in parallel, finding points of convergence wherever and whenever possible.
 
 
 <br />
