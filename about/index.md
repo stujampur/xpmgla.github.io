@@ -10,16 +10,14 @@ What we talk about when we talk about “experimental methods” – we mean new
 
 [^1]: William Blake, All Religions are One (1788).
 
-<br />
+
 We exist under the auspices of the humanities, somewhere between the subjective approach of experimental arts practice and the objective approach of scientific experimentation. Our aim is to carve out a space for progressive process- and media-based scholarship where ‘there is no such thing as a failed experiment, only experiments with unexpected outcomes.’ [^2]
 
 [^2]: R. Buckminster Fuller.
 
-<br />
+
 The group for experimental methods in the humanities at Glasgow draws its inspiration from and is linked to the [group for Experimental Methods in the Humanities at Columbia University](http://xpmethod.plaintext.in/). Our aim is to work in parallel, finding points of convergence wherever and whenever possible.
 
 
-<br />
-The Columbia group for experimental methods in the humanities is dedicated “to the rapid prototyping of speculative ideas”. We similarly intend to publish works in progress in all forms: drafts, maps, notes, and sketches. At the same time, we hope to encourage longer term projects that lead to links and partnerships across departments, universities, and geographical spaces.
 
-<br />
+The Columbia group for experimental methods in the humanities is dedicated “to the rapid prototyping of speculative ideas”. We similarly intend to publish works in progress in all forms: drafts, maps, notes, and sketches. At the same time, we hope to encourage longer term projects that lead to links and partnerships across departments, universities, and geographical spaces.

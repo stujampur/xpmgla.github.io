@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guide - Adding a post pt.1"
+title: "Guide - Adding a post using the web client pt.1"
 author: ekori
 excerpt: "Part one of the step-by-step guide for adding a post using the web interface."
 tags: [guide]
@@ -37,7 +37,7 @@ A **fork** is "a copy of a repository. Forking a repository allows you to freely
 You are now ready to make changes to the repo, add posts, events, and other content. Any changes you make will have to be approved and merged back into the original XPMGla repo before they appear on the page, so you are free to experiment with your own fork as much as you want.
 
 <br />
-To continue reading about adding a post to the XPMGla page, move on to **[Adding a post pt.2]({{ site.url }}/guide-adding-a-post-2/).**
+To continue reading about adding a post to the XPMGla page, move on to **[Adding a post using the web client pt.2]({{ site.url }}/guide-adding-a-post-2/).**
 
 
 
