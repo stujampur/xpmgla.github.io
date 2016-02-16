@@ -7,11 +7,28 @@ excerpt: "Upcoming timetable and important events"
 
 ## Next meeting
 
-The first meeting of the XPMGla group will take place on the **5th of February, in the [STELLA lab](http://www.arts.gla.ac.uk/itsupport/stella.html) between 15:00 and 17:00**. We hope that anyone interested in joining the group will come along and introduce themselves, following which we will be going for a drink at the Curler's Rest, to which everyone is also welcome.
+The next meeting of the XPMGla group will take place on the **19th of February**, in **Room 205, 5 University Gardens**. Please note the change of venue from our initial meeting. Please bring your own laptop/device if you intend to use one (extension cables will be provided).
+
+
+If you are not able to make the next meeting, please feel free to come along at a later date, or email one of the organisers if you'd like to contribute to the group offsite.
 
 ## Upcoming meetings
 
-If you are not able to make the first meeting, please feel free to come along at a later date, or email one of the organisers if you'd like to contribute to the group offsite.
+|Date|Agenda|Venue|
+|:---|:---|:---|
+|19/02|GitHub workshop / Landing page workshop|205, 5 University Gardens|
+|04/03|TBC|205, 5 University Gardens|
+|18/03|TBC|205, 5 University Gardens|
+{: rules="groups"}
+
+
+
+## Past meetings
+
+|Date|Agenda|Venue|Minutes|
+|:---|:---|:---|:---|
+|05/02|Introductory meeting|STELLA|[05/02 Minutes]({{ site.url }}/minutes-5th-february-2016/)|
+{: rules="groups"}
 
 ## Interesting events
 

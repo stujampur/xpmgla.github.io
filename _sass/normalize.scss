@@ -391,8 +391,8 @@ textarea {
  */
 
 table {
-    border-collapse: collapse;
-    border-spacing: 0;
+    border-collapse:separate;
+    border-spacing: 0.5em;
     margin-bottom: 1.5em;
     width: 100%; /* make full width */
 }
