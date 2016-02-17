@@ -10,14 +10,17 @@ If you are new to GitHub, make sure to read **[Adding a post using the web clien
 
 ##Step 2 - Creating a post
 
-If you want to add a post to the webpage, you will have to create a new file within the `_posts` directory. To do this, go to your fork of the XPMGla page and click on the ![posts]({{ site.url }}/images/guide-images/post.png) folder.
+If you want to add a post to the webpage, you will have to create a new file within the `_posts` directory. To do this, go to **your fork** of the XPMGla page and click on the `_posts` folder.
 
+![posts]({{ site.url }}/images/guide-images/post2.png)
 
 You should see a list of all published posts on the page. You will notice that the title format is `YYYY-MM-DD-post-title.md`. Make sure that you follow the same conventions for your new post, where the date refers to the date you are adding the post.
 
 ###Creating a new post
 
-To create a new post, click the ![new file]({{ site.url }}/images/guide-images/new-file.png) button on the right side of the screen.
+To create a new post, click the 'new file' button on the right side of the screen.
+
+![new file]({{ site.url }}/images/guide-images/new-file2.png)
 
 You should be presented with a new screen that has a blank text file you can edit, and a box for naming your file. It should look like this:
 
@@ -35,7 +38,7 @@ The site uses [Jekyll](http://jekyllrb.com/) and Markdown to generate webpages b
 
 You can see the different types of layout in the `_layouts` folder. For creating a new **post**, you would typically use the `post` layout.  
 
-To save time, here is a template you can use:
+####To save time, here is a template you can use:
 
 {% gist xpmgla/2ec8c5ed406c677bbb32 %}
 
@@ -45,7 +48,9 @@ Continuing with our sample `2016-02-21-project-x.md`, your post would look somet
 
 ###Formatting your post
 
-To make your post easier to read, you might want to add some formatting. Markdown makes formatting your posts easy. Here is an example of how you would add some formatting to your text in your new post:
+To make your post easier to read, you might want to add some formatting. Markdown makes formatting your posts easy. 
+
+####Here is an example of how you would add some formatting to your text in your new post:
 
 {% gist xpmgla/2dd557f9664794f064bb %}
 
@@ -76,6 +81,7 @@ You can do quite a lot with Markdown formatting, and there are a lot of great gu
 
 When you are ready, move on to **[Adding a post using the web client pt.3]({{ site.url }}/guide-adding-a-post-3/).** to read about saving and publishing your post.
 
+---
 
 [^1]:[GitHub Guides - Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 [^2]:[What is Jekyll](https://github.com/met-office-lab/Lab-Info/wiki/What-is-Jekyll) / [What is Jekyll 2](http://jekyllbootstrap.com/lessons/jekyll-introduction.html)
