@@ -7,6 +7,7 @@ ekori:
   bio: ""
   avatar: ekori.jpg
   twitter: elinakori
+  linkedin: ekori
   google:
     plus:
 
@@ -17,5 +18,61 @@ stujampur:
   bio: ""
   avatar: stujampur.jpg
   twitter: stujampur
+  google:
+    plus:
+
+
+#New Author 1
+username1:
+  name:
+  web:
+  email:
+  bio: ""
+  avatar:
+  twitter:
+  google:
+    plus:
+
+#New Author 2
+username2:
+  name:
+  web:
+  email:
+  bio: ""
+  avatar:
+  twitter:
+  google:
+    plus:
+
+#New Author 3
+username3:
+  name:
+  web:
+  email:
+  bio: ""
+  avatar:
+  twitter:
+  google:
+    plus:
+
+#New Author 4
+username4:
+  name:
+  web:
+  email:
+  bio: ""
+  avatar:
+  twitter:
+  google:
+    plus:
+
+#New Author 5
+username5:
+  name:
+  web:
+  email:
+  bio: ""
+  avatar:
+  twitter:
   google:
     plus:
