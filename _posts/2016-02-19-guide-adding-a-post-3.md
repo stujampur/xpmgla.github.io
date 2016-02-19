@@ -105,15 +105,23 @@ Once your request is approved, the status will change from '**Open**' to '**Merg
 
 After your pull request is merged with the original `master` branch, your post should appear in the XPMGla GitHub repository and on the website!
 
----
+####Further reading
 
+This guide is pretty specific, so if you'd like to learn more, here are a few useful resources: 
+
+* [Harvard-Crimson How To Use Git Guide](https://github.com/harvard-crimson/crimsononline-assignments/wiki/How-to-use-git)
+* [Git Reference](http://gitref.org/creating/)
+* [The most useful git commands](http://orga.cat/posts/most-useful-git-commands)
+* [Basic Git Commands Atlassian](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
+* [ProGit book](https://git-scm.com/book/en/v2)
+* [Git Reference (Official docs)](https://git-scm.com/docs)
+* [Git commands](https://www.siteground.co.uk/tutorials/git/commands.htm)
+
+---
+Note: The purpose of this guide is to be accessible to beginners. Plain language is used where possible, but accuracy is important. If you spot any errors, please send me a message/pull request!
+
+---
 [^1]:[GitHub Glossary - Commit](https://help.github.com/articles/github-glossary/#commit)
 [^2]:[GitHub Glossary - Pull Request](https://help.github.com/articles/github-glossary/#pull-request)
 
-[Harvard-Crimson How To Use Git Guide](https://github.com/harvard-crimson/crimsononline-assignments/wiki/How-to-use-git)
-[Git Reference](http://gitref.org/creating/)
-[The most useful git commands](http://orga.cat/posts/most-useful-git-commands)
-[Basic Git Commands Atlassian](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
-[ProGit book](https://git-scm.com/book/en/v2)
-[Git Reference](https://git-scm.com/docs)
-[Git commands](https://www.siteground.co.uk/tutorials/git/commands.htm)
+

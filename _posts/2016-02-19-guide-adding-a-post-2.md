@@ -82,6 +82,9 @@ You can do quite a lot with Markdown formatting, and there are a lot of great gu
 When you are ready, move on to **[Adding a post using the web client pt.3]({{ site.url }}/guide-adding-a-post-3/).** to read about saving and publishing your post.
 
 ---
+Note: The purpose of this guide is to be accessible to beginners. Plain language is used where possible, but accuracy is important. If you spot any errors, please send me a message/pull request!
+
+---
 
 [^1]:[GitHub Guides - Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 [^2]:[What is Jekyll](https://github.com/met-office-lab/Lab-Info/wiki/What-is-Jekyll) / [What is Jekyll 2](http://jekyllbootstrap.com/lessons/jekyll-introduction.html)
