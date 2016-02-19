@@ -9,14 +9,14 @@ comments: true
 
 This is a guide written specifically for interacting with the **XPMGla GitHub**. If you would like a general introduction, there are plenty of great guides out there for getting to grips with Git and GitHub. [^1]
 
-####Before you begin...
+#### Before you begin...
 
 This guide assumes that you **already have a GitHub account**, but **don't have Git or the client installed on your machine**.
 
 Because it is possible that members of the group might not be able to install the GitHub client on their PC (if they are using a university computer), we have tried to create a workflow for uploading your content to the website using just the browser. This does have limitations, so if you would like to be more involved in the running of the page, you can either use your own machine or ask IT to install the client for you.
 
 
-##Step 1 - Forking
+## Step 1 - Forking
 
 The first thing you want to do is **fork** from a repository that you want to work on. This creates a copy of the repository under your user, and allows you to make changes without affecting the original repo.
 
@@ -26,7 +26,7 @@ A **repository** or **repo** for short is a "directory or storage space where yo
 A **fork** is "a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project." [^3]
 {: .notice}
 
-###To fork a copy of the **XPMGla** repo:
+### To fork a copy of the **XPMGla** repo:
 
 1. First, make sure that you are signed in to GitHub
 2. Go to the XPMGla website [repo](https://github.com/xpmgla/xpmgla.github.io), and click on the **fork** button in the top right-hand corner of the page. It should look like this: ![fork]({{ site.url }}/images/guide-images/fork.png)

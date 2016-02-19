@@ -8,7 +8,7 @@ comments: true
 ---
 If you are new to GitHub, make sure to read **[Adding a post using the web client pt.1]({{ site.url }}/guide-adding-a-post-1/)** first.
 
-##Step 2 - Creating a post
+## Step 2 - Creating a post
 
 If you want to add a post to the webpage, you will have to create a new file within the `_posts` directory. To do this, go to **your fork** of the XPMGla page and click on the `_posts` folder.
 
@@ -16,7 +16,7 @@ If you want to add a post to the webpage, you will have to create a new file wit
 
 You should see a list of all published posts on the page. You will notice that the title format is `YYYY-MM-DD-post-title.md`. Make sure that you follow the same conventions for your new post, where the date refers to the date you are adding the post.
 
-###Creating a new post
+### Creating a new post
 
 To create a new post, click the 'new file' button on the right side of the screen.
 
@@ -38,7 +38,7 @@ The site uses [Jekyll](http://jekyllrb.com/) and Markdown to generate webpages b
 
 You can see the different types of layout in the `_layouts` folder. For creating a new **post**, you would typically use the `post` layout.  
 
-####To save time, here is a template you can use:
+#### To save time, here is a template you can use:
 
 {% gist xpmgla/2ec8c5ed406c677bbb32 %}
 
@@ -46,15 +46,15 @@ Continuing with our sample `2016-02-21-project-x.md`, your post would look somet
 
 ![project x]({{ site.url }}/images/guide-images/project-x.png)
 
-###Formatting your post
+### Formatting your post
 
 To make your post easier to read, you might want to add some formatting. Markdown makes formatting your posts easy. 
 
-####Here is an example of how you would add some formatting to your text in your new post:
+#### Here is an example of how you would add some formatting to your text in your new post:
 
 {% gist xpmgla/2dd557f9664794f064bb %}
 
-####And here is how the text would look when it is processed with Markdown:
+#### And here is how the text would look when it is processed with Markdown:
 
 ---
 
@@ -62,7 +62,7 @@ Project X is a project. Here is a bit of **bold** text about the project.
 Here is a bit of _italicized_ text.
 If you want to go crazy, you can combine them **_for both_**.
 
-###Here is a subheading
+### Here is a subheading
 
 >Here is a quote that someone had about the project
 
@@ -70,10 +70,10 @@ If you want to put some code inline, you would put `back-ticks` around it.
 
 If you want to insert some code with syntax highlighting, you can use a code block:
 
-```python
+{% highlight css %}
 s = "Python syntax highlighting"
 print s
-```
+{% highlight css %}
 
 ---
 
