@@ -73,7 +73,7 @@ If you want to insert some code with syntax highlighting, you can use a code blo
 {% highlight css %}
 s = "Python syntax highlighting"
 print s
-{% highlight css %}
+{% endhighlight %}
 
 ---
 
