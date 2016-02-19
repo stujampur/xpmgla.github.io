@@ -70,7 +70,7 @@ If you want to put some code inline, you would put `back-ticks` around it.
 
 If you want to insert some code with syntax highlighting, you can use a code block:
 
-{% highlight css %}
+{% highlight python %}
 s = "Python syntax highlighting"
 print s
 {% endhighlight %}
