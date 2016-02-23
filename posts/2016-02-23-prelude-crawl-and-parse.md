@@ -32,17 +32,17 @@ Then follow the basic install procedure: Go to the downloaded setup-file, run it
 ATTENTION: When going through the installation process, pay attention for the section named "Customize Python 2.7.11".
 Looks like this:
 
-![CustomizeSection](https://github.com/xpmgla.github.io/tree/master/images/python_two.jpg)
+![CustomizeSection1](https://github.com/xpmgla.github.io/tree/master/images/python_two.jpg)
 
 There should be a window containing a small directory-tree. If all nodes in the tree show gray boxes, just continue with your
 next-agree-strategy. If, however, there is one node, named "Add python.exe to Path" that contains a red cross. Pay attention
 here! If that is the case, click on the little triangle next to the cross and select "Will be installed on local hard drive".
 
-![CustomizeSection](https://github.com/xpmgla.github.io/tree/master/images/python_three.jpg)
+![CustomizeSection2](https://github.com/xpmgla.github.io/tree/master/images/python_three.jpg)
 
 The result should look like this:
 
-![CustomizeSection](https://github.com/xpmgla.github.io/tree/master/images/python_four.jpg)
+![CustomizeSection3](https://github.com/xpmgla.github.io/tree/master/images/python_four.jpg)
 
 If you succeeded in that, resume your next-agree-routine until your done with the setup.
 
