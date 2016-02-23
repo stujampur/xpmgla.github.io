@@ -19,5 +19,33 @@ have so warmly talked about above! So let's go do that.
 
 # Downloading Python
 
-Here's a picture.
-![Image of the golden button](https://octodex.github.com/images/yaktocat.png)
+All I am doing here worked for me using Windows. If you run into difficulties, please google some Youtube-tutorials for your operating system. 
+
+First visit the download section on the python page: https://www.python.org/downloads/. That should look like this:
+
+![DownloadSection](https://github.com/xpmgla.github.io/tree/master/images/python_one.jpg)
+
+There will be differing opinions on this, but I suggest to download version 2.7.11. So you should
+click the right-hand side golden button.
+
+Then follow the basic install procedure: Go to the downloaded setup-file, run it and then next-agree-next-agree-next-...
+ATTENTION: When going through the installation process, pay attention for the section named "Customize Python 2.7.11".
+Looks like this:
+
+![CustomizeSection](https://github.com/xpmgla.github.io/tree/master/images/python_two.jpg)
+
+There should be a window containing a small directory-tree. If all nodes in the tree show gray boxes, just continue with your
+next-agree-strategy. If, however, there is one node, named "Add python.exe to Path" that contains a red cross. Pay attention
+here! If that is the case, click on the little triangle next to the cross and select "Will be installed on local hard drive".
+
+![CustomizeSection](https://github.com/xpmgla.github.io/tree/master/images/python_three.jpg)
+
+The result should look like this:
+
+![CustomizeSection](https://github.com/xpmgla.github.io/tree/master/images/python_four.jpg)
+
+If you succeeded in that, resume your next-agree-routine until your done with the setup.
+
+**Congratulations! You have downloaded python!**
+
+Now just wait for the workshop to explain how to use it!
