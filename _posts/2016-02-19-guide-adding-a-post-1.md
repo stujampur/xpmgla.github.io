@@ -29,11 +29,13 @@ A **fork** is "a copy of a repository. Forking a repository allows you to freely
 ### To fork a copy of the **XPMGla** repo:
 
 1. First, make sure that you are signed in to GitHub
-2. Go to the XPMGla website [repo](https://github.com/xpmgla/xpmgla.github.io), and click on the **fork** button in the top right-hand corner of the page. It should look like this: ![fork]({{ site.url }}/images/guide-images/fork.png)
+2. Go to the XPMGla website [repo](https://github.com/xpmgla/xpmgla.github.io), and click on the **fork** button in the top right-hand corner of the page. It should look like this:
+![fork]({{ site.url }}/images/guide-images/fork.png)
+
 3. GitHub will now take you to your forked copy of the repository, which will sit under your own GitHub account. **You can make changes to this repo without any consequences to the original project.**
 4. You can make sure that you are looking at your fork by checking the name of the repo at the top-left of the page.
 	* You should see a fork symbol, followed by '*your-username*/*repository-name*' underneath which will be 'forked from *original-username*/*repository-name*'.
-	* For example: 
+	* For example:
 
 ![forked repo]({{ site.url }}/images/guide-images/forked-repo2.png)
 

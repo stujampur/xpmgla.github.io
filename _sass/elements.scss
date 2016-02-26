@@ -22,8 +22,13 @@ figure {
 
 article img {
 	max-width: 100%;
+	display: block;
+	margin: 0 auto;
 	height: auto;
-	border-width: 0;
+	border: solid 1px #CCC;
+	-moz-box-shadow: 1px 1px 5px #999;
+	-webkit-box-shadow: 1px 1px 5px #999;
+	box-shadow: 1px 1px 5px #999;
 	vertical-align: middle;
 	-ms-interpolation-mode: bicubic;
 }
@@ -60,6 +65,14 @@ svg:not(:root) {
 			@include grid(12,12);
 		}
 	}
+}
+
+.smallm {
+	display: block;
+	float:left;
+	width: 100%;
+	padding: 10px;
+	border:0px;
 }
 
 /*
