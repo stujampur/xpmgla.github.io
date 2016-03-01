@@ -28,7 +28,7 @@ If you are not able to make the next meeting, please feel free to come along at 
 
 |Date|Agenda|Venue|Minutes|
 |:---|:---|:---|:---|
-|19/02|GitHub workshop / Landing page workshop|205, 5 University Gardens|19/02 Minutes({{ site.url }}/minutes-19th-february-2016/)|
+|19/02|GitHub workshop / Landing page workshop|205, 5 University Gardens|[19/02 Minutes]({{ site.url }}/minutes-19th-february-2016/)|
 |05/02|Introductory meeting|STELLA|[05/02 Minutes]({{ site.url }}/minutes-5th-february-2016/)|
 {: rules="groups"}
 
