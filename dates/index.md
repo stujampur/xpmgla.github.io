@@ -16,10 +16,11 @@ If you are not able to make the next meeting, please feel free to come along at 
 
 |Date|Agenda|Venue|Notes|
 |:---|:---|:---|
-|04/03|Crawl and Parse Demo (optional)|205, 5 University Gardens|
-|18/03|TBC|205, 5 University Gardens|
-|01/04|TBC|205, 5 University Gardens|
-|01/04|TBC|205, 5 University Gardens|
+|04/03|Crawl and Parse Demo (optional)|205, 5 University Gardens|[Files](https://github.com/xpmgla/crawl-parse)|
+|18/03|None|205, 5 University Gardens||
+|01/04|TBC|205, 5 University Gardens||
+|15/04|TBC|205, 5 University Gardens||
+|29/04|TBC|205, 5 University Gardens||
 {: rules="groups"}
 
 
@@ -28,8 +29,8 @@ If you are not able to make the next meeting, please feel free to come along at 
 
 |Date|Agenda|Venue|Minutes|
 |:---|:---|:---|:---|
-|19/02|GitHub workshop / Landing page workshop|205, 5 University Gardens|[19/02 Minutes]({{ site.url }}/minutes-19th-february-2016/)|
-|05/02|Introductory meeting|STELLA|[05/02 Minutes]({{ site.url }}/minutes-5th-february-2016/)|
+|19/02|GitHub workshop / Landing page workshop|205, 5 University Gardens|[Link]({{ site.url }}/minutes-19th-february-2016/)|
+|05/02|Introductory meeting|STELLA|[Link]({{ site.url }}/minutes-5th-february-2016/)|
 {: rules="groups"}
 
 ## Interesting events
@@ -39,3 +40,4 @@ Events that might be interesting to group members will be posted here, and every
 |Date|Title|Description|Link
 |:---|:---|:---|:---|
 |13/04-15/04|Social Intentions at the CCA|A symposium on the use of social engagement within art institutions|[Facebook event](https://www.facebook.com/events/1671964803081148/)|
+{: rules="groups"}
