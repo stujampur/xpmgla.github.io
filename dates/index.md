@@ -39,5 +39,6 @@ Events that might be interesting to group members will be posted here, and every
 
 |Date|Title|Description|Link
 |:---|:---|:---|:---|
+|18/03-19/03|Game On at the University of Glasgow|A workshop and symposium on dramaturgy and digital culture|[Event flyer]({{ site.url }}/images/interesting-events/GameOnSchedule.pdf/) |
 |13/04-15/04|Social Intentions at the CCA|A symposium on the use of social engagement within art institutions|[Facebook event](https://www.facebook.com/events/1671964803081148/)|
 {: rules="groups"}

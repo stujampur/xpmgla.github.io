@@ -2,7 +2,7 @@
 layout: post
 title: "Minutes - 4th of March 2016"
 author: ekori
-excerpt: "Minutes from the group meeting on the 19th of February 2016"
+excerpt: "Minutes from the group meeting on the 4th of March 2016"
 tags: [minutes]
 comments: true
 ---
