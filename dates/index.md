@@ -7,7 +7,7 @@ excerpt: "Upcoming timetable and important events"
 
 ## Next meeting
 
-The next meeting of the XPMGla group will take place on the **4th of March**, in **Room 205, 5 University Gardens**. Please note the change of venue from our initial meeting. Please bring your own laptop/device if you intend to use one (extension cables will be provided). **If you would like to participate in the Crawl and Parse workshop, please [install Python]({{ site.url }}/prelude-crawl-and-parse/) before coming along.**
+The next meeting of the XPMGla group will take place on the **18th of March**, in **Room 205, 5 University Gardens**. Please note the change of venue from our initial meeting. Please bring your own laptop/device if you intend to use one (extension cables will be provided).
 
 
 If you are not able to make the next meeting, please feel free to come along at a later date, or email one of the organisers if you'd like to contribute to the group offsite.
@@ -16,10 +16,10 @@ If you are not able to make the next meeting, please feel free to come along at 
 
 |Date|Agenda|Venue|Notes|
 |:---|:---|:---|
-|04/03|Crawl and Parse Demo (optional)|205, 5 University Gardens|
-|18/03|TBC|205, 5 University Gardens|
-|01/04|TBC|205, 5 University Gardens|
-|01/04|TBC|205, 5 University Gardens|
+|18/03|['Tweet This'](ttp://www.gla.ac.uk/media/media_442521_en.pdf)|205, 5 University Gardens||
+|01/04|TBC|205, 5 University Gardens||
+|15/04|TBC|205, 5 University Gardens||
+|29/04|TBC|205, 5 University Gardens||
 {: rules="groups"}
 
 
@@ -28,8 +28,9 @@ If you are not able to make the next meeting, please feel free to come along at 
 
 |Date|Agenda|Venue|Minutes|
 |:---|:---|:---|:---|
-|19/02|GitHub workshop / Landing page workshop|205, 5 University Gardens|[19/02 Minutes]({{ site.url }}/minutes-19th-february-2016/)|
-|05/02|Introductory meeting|STELLA|[05/02 Minutes]({{ site.url }}/minutes-5th-february-2016/)|
+|04/03|Crawl and Parse Demo|205, 5 University Gardens|[Link]({{ site.url }}/minutes-4th-march-2016/)|
+|19/02|GitHub workshop / Landing page workshop|205, 5 University Gardens|[Link]({{ site.url }}/minutes-19th-february-2016/)|
+|05/02|Introductory meeting|STELLA|[Link]({{ site.url }}/minutes-5th-february-2016/)|
 {: rules="groups"}
 
 ## Interesting events
@@ -39,3 +40,4 @@ Events that might be interesting to group members will be posted here, and every
 |Date|Title|Description|Link
 |:---|:---|:---|:---|
 |13/04-15/04|Social Intentions at the CCA|A symposium on the use of social engagement within art institutions|[Facebook event](https://www.facebook.com/events/1671964803081148/)|
+{: rules="groups"}
