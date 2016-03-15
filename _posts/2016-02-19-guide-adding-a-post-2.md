@@ -48,7 +48,7 @@ Continuing with our sample `2016-02-21-project-x.md`, your post would look somet
 
 ### Formatting your post
 
-To make your post easier to read, you might want to add some formatting. Markdown makes formatting your posts easy. 
+To make your post easier to read, you might want to add some formatting. Markdown makes formatting your posts easy.
 
 #### Here is an example of how you would add some formatting to your text in your new post:
 
