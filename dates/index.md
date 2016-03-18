@@ -16,7 +16,7 @@ If you are not able to make the next meeting, please feel free to come along at 
 
 |Date|Agenda|Venue|Notes|
 |:---|:---|:---|
-|18/03|['Tweet This'](ttp://www.gla.ac.uk/media/media_442521_en.pdf)|205, 5 University Gardens||
+|18/03|['Tweet This'](http://www.gla.ac.uk/media/media_442521_en.pdf)|205, 5 University Gardens||
 |01/04|TBC|205, 5 University Gardens||
 |15/04|TBC|205, 5 University Gardens||
 |29/04|TBC|205, 5 University Gardens||
