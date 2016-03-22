@@ -7,7 +7,7 @@ excerpt: "Upcoming timetable and important events"
 
 ## Next meeting
 
-The next meeting of the XPMGla group will take place on the **18th of March**, in **Room 205, 5 University Gardens**. Please note the change of venue from our initial meeting. Please bring your own laptop/device if you intend to use one (extension cables will be provided).
+The next meeting of the XPMGla group will take place on the **1st of April**, in **Room 205, 5 University Gardens**. Please note the change of venue from our initial meeting. Please bring your own laptop/device if you intend to use one (extension cables will be provided).
 
 
 If you are not able to make the next meeting, please feel free to come along at a later date, or email one of the organisers if you'd like to contribute to the group offsite.
