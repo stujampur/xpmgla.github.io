@@ -39,7 +39,7 @@ The site uses [Jekyll](http://jekyllrb.com/) and Markdown to generate webpages b
 You can see the different types of layout in the `_layouts` folder. For creating a new **post**, you would typically use the `post` layout.  
 
 #### To save time, here is a template you can use:
-
+<!-- windows fix for ssl error -->
 <script src="https://gist.github.com/xpmgla/2ec8c5ed406c677bbb32.js"> </script>
 
 Continuing with our sample `2016-02-21-project-x.md`, your post would look something like this:
