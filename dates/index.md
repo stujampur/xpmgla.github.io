@@ -16,7 +16,7 @@ If you are not able to make the next meeting, please feel free to come along at 
 
 |Date|Agenda|Venue|Notes|
 |:---|:---|:---|
-|01/04|Reading in the Resonant Interval: David Mitchell's *Slade House* & *I_Bombadil*|205, 5 University Gardens||
+|01/04|Reading in the Resonant Interval: David Mitchell's *Slade House* & *I_Bombadil*|205, 5 University Gardens|[Livestream](https://www.periscope.tv/w/ac0iWDFwempNQXh4VlhqZHl8MXpxS1ZvTmxBelZHQnJJ1PK0DLi3FZ6IZb0vc610Ez_akh3v9wamvJNt2ncL)|
 |15/04|TBC|205, 5 University Gardens||
 |29/04|TBC|205, 5 University Gardens||
 {: rules="groups"}
