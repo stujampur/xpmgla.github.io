@@ -39,8 +39,8 @@ The site uses [Jekyll](http://jekyllrb.com/) and Markdown to generate webpages b
 You can see the different types of layout in the `_layouts` folder. For creating a new **post**, you would typically use the `post` layout.  
 
 #### To save time, here is a template you can use:
-
-{% gist xpmgla/2ec8c5ed406c677bbb32 %}
+<!-- windows fix for ssl error -->
+<script src="https://gist.github.com/xpmgla/2ec8c5ed406c677bbb32.js"> </script>
 
 Continuing with our sample `2016-02-21-project-x.md`, your post would look something like this:
 
@@ -51,8 +51,8 @@ Continuing with our sample `2016-02-21-project-x.md`, your post would look somet
 To make your post easier to read, you might want to add some formatting. Markdown makes formatting your posts easy.
 
 #### Here is an example of how you would add some formatting to your text in your new post:
-
-{% gist xpmgla/2dd557f9664794f064bb %}
+<!-- windows fix for ssl error -->
+<script src="https://gist.github.com/xpmgla/2dd557f9664794f064bb.js"> </script>
 
 #### And here is how the text would look when it is processed with Markdown:
 
