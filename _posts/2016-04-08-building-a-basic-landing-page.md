@@ -11,14 +11,14 @@ comments: true
 
 This guide shows you how to build a basic landing paging using GitHub and an HTML/CSS template of your choice. GitHub allows you to host unlimited project websites but only one personal website. This guide will show you how to create a static website, hosted via GitHub, using the terminal (command line).
 
-##### Why choose a static website?
+#### Why choose a static website?
 
-A static website is the simplest form of website you can create and are coded in HTML. The advantages of static websites lie in their simplicity. For relatively small sites, content management solutions (CMS) such as Wordpress are largely overkill and can require a fair amount of maintenance. A static website has the advantages of being:
+A static website is the simplest form of website you can create. It is coded in HTML. The advantages of static websites lie in their simplicity. For relatively small sites, content management solutions (CMS) such as Wordpress are largely overkill and can require a fair amount of maintenance. A static website has the advantages of being:
 
 - simple
 - low maintenance
 - easy to develop
-- free to host (via GitHub, for example)!
+- free to host (via GitHub, for example)
 
 So, if you feel a static website is for you, then read on!
 
@@ -26,16 +26,17 @@ So, if you feel a static website is for you, then read on!
 
 The first thing you have to do is choose which HTML/CSS template you want to work with. This will determine how your website will look and feel, as well as defining its parameters.
 
-There are a huge number of HTML/CSS templates freely available on the web, but for example's sake - and because it has a fairly wide variety of templates available - we will use the [HMTL5](https://http://html5up.net/) site.
-
-Browse the site and select your desired template (you can use the *Live Demo* button to have a closer look at the design).
-
 **HTML** (Hypertext Markup Language) is a markup language for describing documents (web pages). **HTML5** is the most recent version of this markup language, which we will be using as our template. A **markup language** is a set of markup tags. With regard to HTML, each markup tag describes different document content. HTML tags are keywords surrounded by angle brackets, i.e. `<tagname>content</tagname>`. They normally comes in pairs where the first tag is the start tag and the second is the end tag, which is differentiated by the slash before the tag name. HTML dictates your web site’s content: its structure, allowing you to add content such as images, text, videos, links, etc. For example:
 ![HTML]({{ site.url }}/images/landing-page-guide-images/HTML-example.jpg)
 {: .notice}
 
-**CSS** (Cascading Style Sheets) is a stylesheet language that describes the presentation of an HTML document. CSS describes how elements must be rendered on screen, on paper, and other media. CSS dictates your web site’s style: its visual look and feel, such as font size, font colour, page layout, mouse-over effects, etc. For example: ![CSS]({{ site.url }}/images/landing-page-guide-images/CSS-example.jpg)
+**CSS** (Cascading Style Sheets) is a stylesheet language that describes the presentation of an HTML document. CSS describes how elements must be rendered on screen, on paper, and other media. CSS dictates your web site’s style: its visual look and feel, such as font size, font colour, page layout, mouse-over effects, etc. For example:
+![CSS]({{ site.url }}/images/landing-page-guide-images/CSS-example.jpg)
 {: .notice}
+
+There are a huge number of HTML/CSS templates freely available on the web, but for example's sake - and because it has a fairly wide variety of templates available - we will use the [HMTL5](http://html5up.net/) site.
+
+Browse the site and select your desired template (you can use the '*Live Demo*' button to have a closer look at the design).
 
 For the purposes of the guide, I have chosen the *Aerial* template:
 
@@ -63,12 +64,12 @@ Go to [GitHub](https://github.com/) and create a new repository:
 
 Name the new repository '**[*username*].github.io'**.
 
-> As GitHub only allows one web page per user, it is important that the username part of your repository name matches your GitHub username *exactly*.
+> As GitHub only allows one web page per user, it is important that the username part of your repository name matches your GitHub username **exactly**.
 
 Enter a '*Description*', if desired.
 Leave as '*Public*'.
 Tick ‘*Initialize this repository with a README*’.
-Click ***Create repository***:
+Click '***Create repository***':
 
 ![New repository]({{ site.url }}/images/landing-page-guide-images/New-repo2.jpg)
 
@@ -146,7 +147,7 @@ A **text editor** is a tool that allows you to open projects, such as your web p
 
 If you choose to use Atom, once you have installed the application, you will need to add your project to the text editor. To do this, open Atom and go to: ***File > Add Project Folder***:
 
-![Atom]({{ site.url }}/images/landing-page-guide-images/Atom-changes.jpg)
+![Atom]({{ site.url }}/images/landing-page-guide-images/Changes-atom.jpg)
 
 Select your cloned repository folder (with your username as its file name). Click ‘***Select Folder***’:
 
@@ -160,7 +161,7 @@ So, now to make some changes. The first thing you will probably want to change i
 
 ![Atom]({{ site.url }}/images/landing-page-guide-images/Atom-example1.jpg)
 
-You should be able to clearly see the name of the user that created the template, whose name appeared when you viewed the template on [HTML5Up.net](https//html5up.net) and when you viewed your template via the index.html HTML file from your locally cloned repository in your web browser, along with the other key details. For example:
+You should be able to clearly see the name of the user that created the template, whose name appeared when you viewed the template on [HTML5Up](https//html5up.net) and when you viewed your template via the index.html HTML file from your locally cloned repository in your web browser, along with the other key details. For example:
 
 ![Atom]({{ site.url }}/images/landing-page-guide-images/Atom-example2.jpg)
 
@@ -180,7 +181,7 @@ To check your changes locally, before you make them visible on the web, go back 
 
 Once you are happy with your changes, you need to '**push**' these ‘**upstream**’ to your origin repository on the GitHub web site. This will allow these changes to reflect globally on the web-based version of your web page.
 
-> There is no need to '***pull***'' any changes from '***upstream***'', because you are the only person making changes to your site. There is only your local cloned repository and your origin repository.
+> There is no need to '***pull***' any changes from '***upstream***', because you are the only person making changes to your site. There is only your local cloned repository and your origin repository.
 
 To do this, open the terminal. First, ensure the terminal is pointing at your locally cloned repository at the correct file location/folder. To do this, type `cd` and drag and drop the file location/folder into the terminal. For example:
 
@@ -197,3 +198,5 @@ And lastly, to ‘***push***’ your changes to the origin repository on the Git
 If you load your website, you should now see these changes reflected.
 
 **And that's it - you now have your own landing page**! You are now free to amend and personalise it in any way you wish!
+
+Enjoy.
