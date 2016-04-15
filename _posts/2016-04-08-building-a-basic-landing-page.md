@@ -210,6 +210,6 @@ Enjoy.
 ---
 
 [^1]:[Static vs. Dynamic Websites Guides](http://edinteractive.co.uk/static-vs-dynamic-websites-difference/)
-[^2]: [HTML Introduction](http://www.w3schools.com/html/html_intro.asp)
+[^2]:[HTML Introduction](http://www.w3schools.com/html/html_intro.asp)
 [^3]:[CSS Introduction](http://www.w3schools.com/css/css_intro.asp)
 [^4]:[More HTML Templates](http://templated.co/) / [Even More HTML Templates](http://designscrazed.org/free-responsive-html5-css3-templates/)
