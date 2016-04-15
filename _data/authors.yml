@@ -4,7 +4,8 @@ ekori:
   name: Elina Koristashevskaya
   web: ekori.github.io
   email:
-  bio: ""
+  bio: 3rd year PhD English Language, working in Computational Stylistics. Looking at ​corpora of poetry for ​semantic domains​ using the ​Historical Thesaurus of English​. I am also working on the design of the <a href="http://www.gla.ac.uk/services/learningteaching/aftoolkit/">Assessment and Feedback Toolkit</a> for the LTC.
+  interests: <ul><li><strong>widening participation</strong> in HE, so would be especially keen to start/be involved with any projects that include widening access. On that note – I’d be keen to chat about ​minimal computing, and how we can account for that in what we’re doing/trying to do.</li><li>using ​Python​ in text analysis<br>R​, which I would be really keen to learn with someone</li><li>visualisation​, both in terms of static visualisation of data, and also web-based visuals like ​D3​</li><li>databases</li><li>Natural Language Processing, with particular consideration to language variation and ambiguity</li></ul>
   avatar: ekori.jpg
   twitter: elinakori
   linkedin: ekori
@@ -15,7 +16,8 @@ stujampur:
   name: Stuart James Purcell
   web: https://github.com/stujampur
   email:
-  bio: ""
+  bio:
+  interests:
   avatar: stujampur.jpg
   twitter: stujampur
   google:
@@ -27,7 +29,12 @@ pravn:
   name: Pernille Cordelia Ravn
   web:
   email:
-  bio: ""
+  bio:
+  interests: "Website building<br>
+Public engagement<br>
+Crossmedia practice<br>
+Sound and literature<br>
+"
   avatar:
   twitter:
   google:
@@ -38,7 +45,8 @@ Mo:
   name: Moritz Mosenhauer
   web:
   email:
-  bio: ""
+  bio:
+  interests: "Website building <br> Quantitative data analysis (language as data) <br> Python <br> LaTex"
   avatar: mo.jpg
   twitter:
   google:
@@ -49,7 +57,8 @@ alzoesch:
   name: Allison Zoe Schneider
   web:
   email:
-  bio: ""
+  bio:
+  interests:
   avatar:
   twitter:
   google:
@@ -60,7 +69,12 @@ mbelhu:
   name: Maribel Hidalgo Urbaneja
   web: m-hidalgo.com
   email:
-  bio: ""
+  bio:
+  interests: "Museum studies<br>
+Storytelling and narratology<br>
+Programming<br>
+Visualisation<br>
+"
   avatar:
   twitter: MaribelHU
   google:
@@ -71,7 +85,32 @@ username5:
   name:
   web:
   email:
-  bio: ""
+  bio:
+  interests:
+  avatar:
+  twitter:
+  google:
+    plus:
+
+#New Author 6
+username5:
+  name:
+  web:
+  email:
+  bio:
+  interests:
+  avatar:
+  twitter:
+  google:
+    plus:
+
+#New Author 7
+username5:
+  name:
+  web:
+  email:
+  bio:
+  interests:
   avatar:
   twitter:
   google:

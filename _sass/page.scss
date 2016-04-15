@@ -247,6 +247,16 @@ $button-size: 1.5rem;
 	}
 }
 
+/*Contributors*/
+
+#contributors {
+	padding-left: 16em;
+	padding-right: 10em;
+	h1{
+		padding-left: 5.3em;
+	}
+
+}
 /* Index listing specific styling */
 #index {
 	@include container;
@@ -752,4 +762,19 @@ $button-size: 1.5rem;
 }
 #goog-wm-sb {
 	@extend .btn;
+}
+
+div.contributor {
+    width: 100%;
+    position: relative;
+}
+
+div.contributor img {
+    position: absolute;
+    width: 150px;
+    margin-right: 20px;
+}
+
+div.contributor div.meta {
+    margin-left: 171px;
 }
