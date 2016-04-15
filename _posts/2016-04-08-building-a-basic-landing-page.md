@@ -11,7 +11,7 @@ comments: true
 
 This guide shows you how to build a basic landing paging using GitHub and an HTML/CSS template of your choice. GitHub allows you to host unlimited project websites but only one personal website. This guide will show you how to create a static website, hosted via GitHub, using the terminal (command line).
 
-#### Why choose a static website? [^1]
+#### Why choose a static website?[^1]
 
 A static website is the simplest form of website you can create. It is coded in HTML. The advantages of static websites lie in their simplicity. For relatively small sites, content management solutions (CMS) such as Wordpress are largely overkill and can require a fair amount of maintenance. A static website has the advantages of being:
 
@@ -26,17 +26,17 @@ So, if you feel a static website is for you, then read on!
 
 The first thing you have to do is choose which HTML/CSS template you want to work with. This will determine how your website will look and feel, as well as defining its parameters.
 
-**HTML** (Hypertext Markup Language) is a markup language for describing documents (web pages). **HTML5** is the most recent version of this markup language, which we will be using as our template. A **markup language** is a set of markup tags. With regard to HTML, each markup tag describes different document content. HTML tags are keywords surrounded by angle brackets, i.e. `<tagname>content</tagname>`. They normally comes in pairs where the first tag is the start tag and the second is the end tag, which is differentiated by the slash before the tag name. HTML dictates your web site’s content: its structure, allowing you to add content such as images, text, videos, links, etc. [^2] For example:
+**HTML** (Hypertext Markup Language) is a markup language for describing documents (web pages). **HTML5** is the most recent version of this markup language, which we will be using as our template. A **markup language** is a set of markup tags. With regard to HTML, each markup tag describes different document content. HTML tags are keywords surrounded by angle brackets, i.e. `<tagname>content</tagname>`. They normally comes in pairs where the first tag is the start tag and the second is the end tag, which is differentiated by the slash before the tag name. HTML dictates your web site’s content: its structure, allowing you to add content such as images, text, videos, links, etc.[^2] For example:
 ![HTML]({{ site.url }}/images/landing-page-guide-images/HTML-example.jpg)
 {: .notice}
 
-**CSS** (Cascading Style Sheets) is a stylesheet language that describes the presentation of an HTML document. CSS describes how elements must be rendered on screen, on paper, and other media. CSS dictates your web site’s style: its visual look and feel, such as font size, font colour, page layout, mouse-over effects, etc. [^3] For example:
+**CSS** (Cascading Style Sheets) is a stylesheet language that describes the presentation of an HTML document. CSS describes how elements must be rendered on screen, on paper, and other media. CSS dictates your web site’s style: its visual look and feel, such as font size, font colour, page layout, mouse-over effects, etc.[^3] For example:
 ![CSS]({{ site.url }}/images/landing-page-guide-images/CSS-example.jpg)
 {: .notice}
 
 >If you want to learn more about using HTML and CSS, [Codecademy](https://www.codecademy.com/learn) has a free online course, Make a Website, which includes both HTML and CSS tutorials.
 
-There are a huge number of HTML/CSS templates freely available on the web, but for example's sake - and because it has a fairly wide variety of templates available - we will use the [HMTL5](http://html5up.net/) site. [^4]
+There are a huge number of HTML/CSS templates freely available on the web, but for example's sake - and because it has a fairly wide variety of templates available - we will use the [HMTL5](http://html5up.net/) site.[^4]
 
 Browse the site and select your desired template (you can use the '*Live Demo*' button to have a closer look at the design).
 
@@ -211,5 +211,5 @@ Enjoy.
 
 [^1]:[Static vs. Dynamic Websites Guides](http://edinteractive.co.uk/static-vs-dynamic-websites-difference/)
 [^2]: [HTML Introduction](http://www.w3schools.com/html/html_intro.asp)
-[^3]:[CSS Introduction](http://www.w3schools.com/css/)
+[^3]:[CSS Introduction](http://www.w3schools.com/css/css_intro.asp)
 [^4]:[More HTML Templates](http://templated.co/) / [Even More HTML Templates](http://designscrazed.org/free-responsive-html5-css3-templates/)
