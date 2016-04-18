@@ -7,7 +7,7 @@ excerpt: "Upcoming timetable and important events"
 
 ## Next meeting
 
-The next meeting of the XPMGla group will take place on the **15th of April**, in **Room 205, 5 University Gardens**. Please bring your own laptop/device if you intend to use one (extension cables will be provided).
+The next meeting of the XPMGla group will take place on the **29th of April**, in **Room 205, 5 University Gardens**. Please bring your own laptop/device if you intend to use one (extension cables will be provided).
 
 
 If you are not able to make the next meeting, please feel free to come along at a later date, or email one of the organisers if you'd like to contribute to the group offsite.
@@ -16,8 +16,7 @@ If you are not able to make the next meeting, please feel free to come along at 
 
 |Date|Agenda|Venue|Notes|
 |:---|:---|:---|
-|15/04|Project Work|205, 5 University Gardens||
-|29/04|TBC|205, 5 University Gardens||
+|29/04|Project Work|205, 5 University Gardens||
 {: rules="groups"}
 
 
@@ -26,6 +25,7 @@ If you are not able to make the next meeting, please feel free to come along at 
 
 |Date|Agenda|Venue|Minutes|
 |:---|:---|:---|:---|
+|15/04|Project Work|205, 5 University Gardens||
 |01/04|Reading in the Resonant Interval: David Mitchell's *Slade House* & *I_Bombadil*|205, 5 University Gardens|
 |18/03|['Tweet This'](http://www.gla.ac.uk/media/media_442521_en.pdf)|205, 5 University Gardens||
 |04/03|Crawl and Parse Demo|205, 5 University Gardens|[Link]({{ site.url }}/minutes-4th-march-2016/)|
@@ -39,5 +39,4 @@ Events that might be interesting to group members will be posted here, and every
 
 |Date|Title|Description|Link
 |:---|:---|:---|:---|
-|13/04-15/04|Social Intentions at the CCA|A symposium on the use of social engagement within art institutions|[Facebook event](https://www.facebook.com/events/1671964803081148/)|
 {: rules="groups"}
