@@ -39,4 +39,5 @@ Events that might be interesting to group members will be posted here, and every
 
 |Date|Title|Description|Link
 |:---|:---|:---|:---|
+|No events|
 {: rules="groups"}
