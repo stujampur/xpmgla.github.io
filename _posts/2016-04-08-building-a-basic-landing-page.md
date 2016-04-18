@@ -36,7 +36,7 @@ The first thing you have to do is choose which HTML/CSS template you want to wor
 
 >If you want to learn more about using HTML and CSS, [Codecademy](https://www.codecademy.com/learn) has a free online course, Make a Website, which includes both HTML and CSS tutorials.
 
-There are a huge number of HTML/CSS templates freely available on the web, but for example's sake - and because it has a fairly wide variety of templates available - we will use the [HMTL5](http://html5up.net/) site.[^4]
+There are a huge number of HTML/CSS templates freely available on the web, but for example's sake - and because it has a fairly wide variety of templates available - we will use the [HTML5up](http://html5up.net/) site.[^4]
 
 Browse the site and select your desired template (you can use the '*Live Demo*' button to have a closer look at the design).
 
