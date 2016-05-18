@@ -7,7 +7,7 @@ excerpt: "Upcoming timetable and important events"
 
 ## Next meeting
 
-The next meeting of the XPMGla group will take place on the **13th of May**, in **Room 5C, Postgraduate Study Area (5th floor), Glasgow University Library**. Please bring your own laptop/device if you intend to use one.
+The next meeting of the XPMGla group will take place on the **27th of May**, in **Room t.b.c**. Please bring your own laptop/device if you intend to use one.
 
 
 If you are not able to make the next meeting, please feel free to come along at a later date, or email one of the organisers if you'd like to contribute to the group offsite.
@@ -16,7 +16,15 @@ If you are not able to make the next meeting, please feel free to come along at 
 
 |Date|Agenda|Venue|Notes|
 |:---|:---|:---|
-|13/05|Project Work|5C, Postgraduate Study Area (5th floor), Glasgow University Library||
+|27/05|Project Work|Room t.b.c.||
+|10/06|Project Work|Room t.b.c.||
+|24/06|Project Work|Room t.b.c.||
+|08/07|Project Work|Room t.b.c.||
+|22/07|Project Work|Room t.b.c.||
+|05/08|Project Work|Room t.b.c.||
+|19/08|Project Work|Room t.b.c.||
+|09/09|Project Work|Room t.b.c.||
+|23/09|Project Work|Room t.b.c.||
 {: rules="groups"}
 
 
@@ -25,6 +33,7 @@ If you are not able to make the next meeting, please feel free to come along at 
 
 |Date|Agenda|Venue|Minutes|
 |:---|:---|:---|:---|
+|13/05|Project Work|5C, Postgraduate Study Area (5th floor), Glasgow University Library||
 |29/04|Project Work|205, 5 University Gardens||
 |15/04|Project Work|205, 5 University Gardens||
 |01/04|Reading in the Resonant Interval: David Mitchell's *Slade House* & *I_Bombadil*|205, 5 University Gardens|
