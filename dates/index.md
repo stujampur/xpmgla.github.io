@@ -17,14 +17,14 @@ If you are not able to make the next meeting please also feel free to come along
 |Date|Agenda|Venue|Notes|
 |:---|:---|:---|
 |27/05|Project Work|Room 201, 11 University Gardens||
-|10/06|Project Work|Room 201, 11 University Gardens||
-|24/06|Project Work|Room 201, 11 University Gardens||
-|08/07|Project Work|Room 201, 11 University Gardens||
-|22/07|Project Work|Room 201, 11 University Gardens||
-|05/08|Project Work|Room 201, 11 University Gardens||
-|19/08|Project Work|Room t.b.c.||
-|09/09|Project Work|Room t.b.c.||
-|23/09|Project Work|Room t.b.c.||
+|10/06|t.b.c.|Room 201, 11 University Gardens||
+|24/06|t.b.c.|Room 201, 11 University Gardens||
+|08/07|t.b.c.|Room 201, 11 University Gardens||
+|22/07|t.b.c.|Room 201, 11 University Gardens||
+|05/08|t.b.c.|Room 201, 11 University Gardens||
+|19/08|t.b.c.|Room t.b.c.||
+|09/09|t.b.c.|Room t.b.c.||
+|23/09|t.b.c.|Room t.b.c.||
 {: rules="groups"}
 
 

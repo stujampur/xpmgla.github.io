@@ -10,4 +10,4 @@ you have any questions please contact Stuart
 Purcell (s.purcell.1[at]research.gla.ac.uk) and Elina Koristashevskaya
 (e.koristashevskaya.1[at]research.gla.ac.uk).
 
-Alternatively, if you have a Glasgow University email address and wish to join our [Slack](https://slack.com/) group, please [sign up here](https://xpmgla.slack.com/signup).
+Alternatively, if you have a Glasgow University email address and wish to join our Slack group, please [sign up here](https://xpmgla.slack.com/signup).
