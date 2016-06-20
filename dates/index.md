@@ -7,7 +7,7 @@ excerpt: "Upcoming timetable and important events"
 
 ## Next meeting
 
-The next meeting of the XPMGla group will take place from **15:00-17:00** on the **10th of June**, in **Room 201, 11 University Gardens**. Please bring your own laptop/device if you intend to use one, and feel free to attend for the full two hours or drop in and/or out as required.
+The next meeting of the XPMGla group will take place from **15:00-17:00** on **Friday 24th of June**, in **Room 201, 11 University Gardens**. Please bring your own laptop/device if you intend to use one, and feel free to attend for the full two hours or drop in and/or out as required.
 
 
 If you are not able to make the next meeting please also feel free to come along at a later date, or [contact]({{ site.url }}/contact/) the organisers if you would like to contribute to the group offsite.
@@ -16,8 +16,7 @@ If you are not able to make the next meeting please also feel free to come along
 
 |Date|Agenda|Venue|Notes|
 |:---|:---|:---|
-|10/06|Project Work|Room 201, 11 University Gardens||
-|24/06|t.b.c.|Room 201, 11 University Gardens||
+|24/06|Strathclyde Summer Project (SSE) Prep|Room 201, 11 University Gardens||
 |08/07|t.b.c.|Room 201, 11 University Gardens||
 |22/07|t.b.c.|Room 201, 11 University Gardens||
 |05/08|t.b.c.|Room 201, 11 University Gardens||
@@ -32,6 +31,7 @@ If you are not able to make the next meeting please also feel free to come along
 
 |Date|Agenda|Venue|Minutes|
 |:---|:---|:---|:---|
+|10/06|Project Work|Room 201, 11 University Gardens||
 |27/05|Project Work|Room 201, 11 University Gardens||
 |13/05|Project Work|5C, Postgraduate Study Area (5th floor), Glasgow University Library||
 |29/04|Project Work|205, 5 University Gardens||
