@@ -4,8 +4,8 @@ ekori:
   name: Elina Koristashevskaya
   web: ekori.github.io
   email:
-  bio: 3rd year PhD English Language, working in Computational Stylistics. Looking at ​corpora of poetry for ​semantic domains​ using the ​Historical Thesaurus of English​. I am also working on the design of the <a href="http://www.gla.ac.uk/services/learningteaching/aftoolkit/">Assessment and Feedback Toolkit</a> for the LTC.
-  interests: <ul><li><strong>widening participation</strong> in HE, so would be especially keen to start/be involved with any projects that include widening access. On that note – I’d be keen to chat about ​minimal computing, and how we can account for that in what we’re doing/trying to do.</li><li>using ​Python​ in text analysis<br>R​, which I would be really keen to learn with someone</li><li>visualisation​, both in terms of static visualisation of data, and also web-based visuals like ​D3​</li><li>databases</li><li>Natural Language Processing, with particular consideration to language variation and ambiguity</li></ul>
+  bio: 3rd year PhD English Language, working in Computational Stylistics. Looking at ​corpora of poetry for ​semantic domains​ using the ​Historical Thesaurus of English​. I am also working on the design of the <a href="http://www.gla.ac.uk/services/learningteaching/aftoolkit/">Assessment and Feedback Toolkit</a> for the Learning and Teaching Centre.
+  interests: <ul><li>widening participation in HE, so I would be especially keen to start/be involved with any projects that include widening access.</li><li>using ​Python​ in text analysis</li><li>R​, but at a very basic level, so keen to learn with someone</li><li>visualisation​, both in terms of static visualisation of data, and also web-based visuals like ​D3​</li><li>databases</li><li>Natural Language Processing, with particular consideration to language variation and ambiguity</li></ul>
   avatar: ekori.jpg
   twitter: elinakori
   linkedin: ekori
@@ -16,8 +16,8 @@ stujampur:
   name: Stuart James Purcell
   web: https://github.com/stujampur
   email:
-  bio:
-  interests:
+  bio: 3rd year PhD English Literature & Media Theory, examining contemporary cross-media ​literary practice (in print and digital media) from a ​media studies perspective.
+  interests: <ul><li>Twitter as a communications medium, particularly for literary purposes</li><li>Any ​creative practice in a ​digital format/that utilises or engages with ​digital​ tools</li><li>Continuing to learn and expand my knowledge of ​html and ​css​, especially for website creation</li><li>beginning to learn ​python (ideally, I would like to combine this with my interest in Twitter to create some ​bots​ and possibly some other ​tools​!)</li><li>Widening participation​ in HE, so would be especially keen to start/be involved with any projects that include a widening access and/or ​educational angle</li><li>Public engagement, so would also like to start/be involved with any projects that have the potential to engage with groups outside of academia</li></ul>
   avatar: stujampur.jpg
   twitter: stujampur
   linkedin: stujampur
@@ -30,13 +30,9 @@ pravn:
   name: Pernille Cordelia Ravn
   web:
   email:
-  bio:
-  interests: "Website building<br>
-Public engagement<br>
-Crossmedia practice<br>
-Sound and literature<br>
-"
-  avatar:
+  bio: I am currently a Master’s student at University of Glasgow in the English literature department (MLitt Modernities). In October I will commence my PhD at Center for Modern Thought at University of Aberdeen. I’ll be working on an interdisciplinary project examining contemporary poetic practices that move across media, genres and languages.
+  interests: <ul><li>Learning more about html and css for webpage building and possibly other digital tools/programming languages (e.g. python).</li><li>Experimental sonic practices</li><li>Finding creative ways of using the above &#10548; possibly for the below &#10549;</li><li>Public engagement in many forms&#58; experimental, old-fashioned, digital and analogue...</li><li>Widening participation projects.</li></ul>
+  avatar: pravn.png
   twitter:
   google:
     plus:
@@ -46,21 +42,21 @@ Mo:
   name: Moritz Mosenhauer
   web:
   email:
-  bio:
-  interests: "Website building <br> Quantitative data analysis (language as data) <br> Python <br> LaTex"
+  bio: I am a first-year PhD-student in Economics at the University of Glasgow. My research interest lies in Behavioural Economics. I am both psyched on theoretical (mathematical modelling) and empirical methods. I currently work on how people may find it optimal to develop a "tunnel-vision" and which factors influence this. Generally, I find all studies investigating how people allocate attention interesting, but also other psychological biases influencing processes of decision-making.
+  interests: <ul><li>Website building</li><li>Quantitative data analysis (language as data)</li><li>Python</li><li>LaTex</li></ul>
   avatar: mo.jpg
   twitter:
   google:
     plus:
 
 #New Author 3
-alzoesch:
-  name: Allison Zoe Schneider
+gspurr:
+  name: Graeme Spurr
   web:
   email:
-  bio:
-  interests:
-  avatar:
+  bio: Spurr submitted his PhD in late 2015, and successfully defended his thesis, "Amateur Video&#58; Technology, Behaviour and Practice 1965-2015", in early 2016 at the Theatre, Film and Television subject area, University of Glasgow.<br>His research was focused primarily on the diffusion and implications of early amateur and industrial video-recording technology for the UK amateur movie making sector (a network of independent film makers and regional cine clubs) between 1965 and 2015.<br>The PhD used extensive historical and technical knowledge to explore the under-conceptualised relation between magnetic recording technology and amateur movie-making/videography in the period outlined. It utilised an exploratory methodology, combining oral history, archival research, cultural analysis and close textual reading, in producing an 'immersive' and novel historical account.
+  interests: <ul><li>Digitization and historiography, and the relationship between the two.</li><li>Microhistorical approaches to technology.</li></ul>
+  avatar: gspurr.jpg
   twitter:
   google:
     plus:
@@ -70,49 +66,21 @@ mbelhu:
   name: Maribel Hidalgo Urbaneja
   web: m-hidalgo.com
   email:
-  bio:
-  interests: "Museum studies<br>
-Storytelling and narratology<br>
-Programming<br>
-Visualisation<br>
-"
+  bio: 2nd Year Ph.D. student in museum studies at HATII. I'm working on a definition of digital narratives in art museums centered in online exhibitions and publications.
+  interests: <ul><li>Museum studies</li><li>Storytelling and narratology</li><li>Enhancing my coding skills and probably getting started with programming languages (Phyton, ruby)</li><li>Visualisation</li><li>Digital publishing and project management</li><li>Agile methods and user experience research</li></ul>
   avatar:
   twitter: MaribelHU
   google:
     plus:
 
 #New Author 5
-username5:
-  name:
+musco:
+  name: Steve Muscolino
   web:
   email:
-  bio:
-  interests:
-  avatar:
-  twitter:
-  google:
-    plus:
-
-#New Author 6
-username5:
-  name:
-  web:
-  email:
-  bio:
-  interests:
-  avatar:
-  twitter:
-  google:
-    plus:
-
-#New Author 7
-username5:
-  name:
-  web:
-  email:
-  bio:
-  interests:
-  avatar:
+  bio: Stephen Muscolino is a 3rd year PhD Candidate in English Literature at the University of Glasgow.  Originally from the Boston, Massachusetts, I have completed my MA/MLitt in the Modernities at the University of Glasgow in 2012, and I hold undergraduate degrees (dual major) from Seattle Pacific University in English Literature and Sociology.
+  interests: <ul><li>As my research focuses on the intersection of digital technologies and contemporary American fiction, XPMgla allows me to learn more about web design/creation (GitHub) and more general coding languages such as Python and JavaScript. </li><li> The group has also afforded me the opportunity to volunteer in such programs as Widening Access at the University of Srathclyde. </li><li> Go Pats!</li></ul>
+  avatar: musco.jpg
   twitter:
   google:
     plus:

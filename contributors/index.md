@@ -6,12 +6,12 @@ title: Contributors
 <div class="contributors">
 {% for author in site.data.authors %}
     {% if author[1].showInList != false %}
-    <div class="contributor">
+    <div class="contributor"><hr/>
         {% if author[1].avatar %}<img src="{{ site.baseurl }}/images/members/{{ author[1].avatar }}" alt="author[1].image" />{% endif %}
 
         <!--<img src="{{ site.baseurl }}/images/members/{{ author[1].avatar }}" alt="author[1].image" />-->
         <div class="meta">
-            <hr/>
+
             <p> <h2>{{ author[1].name | default: "No Name Specified"}} {% if author[1].alias %}<small>[{{ author[1].alias }}]</small>{% endif %}</h2>
                 {% if author[1].role %}<strong>{{ author[1].role }}</strong><br/>{% endif %}
                 {% if author[1].role %}<a href="{{ author[1].website }}" target="_blank">{{ author[1].website }}</a><br/>{% endif %}
