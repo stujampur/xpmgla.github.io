@@ -7,11 +7,9 @@ tags: [guide]
 comments: true
 ---
 
-## Building a basic landing page
-
 This guide shows you how to build a basic landing paging using GitHub and an HTML/CSS template of your choice. GitHub allows you to host unlimited project websites but only one personal website. This guide will show you how to create a static website, hosted via GitHub, using the terminal (command line).
 
-#### Why choose a static website?[^1]
+### Why choose a static website?[^1]
 
 A static website is the simplest form of website you can create. It is coded in HTML. The advantages of static websites lie in their simplicity. For relatively small sites, content management solutions (CMS) such as Wordpress are largely overkill and can require a fair amount of maintenance. A static website has the advantages of being:
 
