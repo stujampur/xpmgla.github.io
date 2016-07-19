@@ -49,5 +49,5 @@ Note: The purpose of this guide is to be accessible to beginners. Plain language
 ---
 
 [^1]:[Hello world](https://guides.github.com/activities/hello-world/) / [GitHub flow](https://guides.github.com/introduction/flow/) / [Using Git Cheatsheet](https://gist.github.com/hofmannsven/6814451) / [Atlassian's Git Tutorial](https://www.atlassian.com/git/tutorials)
-[^2]: [ReadWrite - Understanding GitHub Pt.1](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)
-[^3]: [GitHub Help - Fork a Repo](https://help.github.com/articles/fork-a-repo/)
+[^2]:[ReadWrite - Understanding GitHub Pt.1](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)
+[^3]:[GitHub Help - Fork a Repo](https://help.github.com/articles/fork-a-repo/)
