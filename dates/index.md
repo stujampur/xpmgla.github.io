@@ -7,7 +7,7 @@ excerpt: "Upcoming timetable and important events"
 
 ## Next session
 
-The next session of the XPMGla group will take place from **15:00-17:00** on **Friday 8th of July**, in **Room 201, 11 University Gardens**. Please bring your own laptop/device, and feel free to attend for the full two hours or drop in and/or out as required.
+The next session of the XPMGla group will take place from **15:00-17:00** on **Friday 22nd July**, in **Room 201, 11 University Gardens**. Please bring your own laptop/device, and feel free to attend for the full two hours or drop in and/or out as required.
 
 
 If you are not able to make the next session please also feel free to come along at a later date, or [contact]({{ site.url }}/contact/) the organisers if you would like to contribute to the group offsite.
@@ -16,8 +16,7 @@ If you are not able to make the next session please also feel free to come along
 
 |Date|Agenda|Venue|Notes|
 |:---|:---|:---|
-|08/07|Project work|Room 201, 11 University Gardens||
-|22/07|t.b.c.|Room 201, 11 University Gardens||
+|22/07|Project work|Room 201, 11 University Gardens||
 |05/08|t.b.c.|Room 201, 11 University Gardens||
 |19/08|t.b.c.|Room t.b.c.||
 |02/09|t.b.c.|Room t.b.c.||
@@ -30,6 +29,7 @@ If you are not able to make the next session please also feel free to come along
 
 |Date|Agenda|Venue|Minutes|
 |:---|:---|:---|:---|
+|08/07|Project work|Room 201, 11 University Gardens||
 |24/06|Strathclyde Summer Project (SSE) Prep|Room 201, 11 University Gardens||
 |10/06|Project work|Room 201, 11 University Gardens||
 |27/05|Project work|Room 201, 11 University Gardens||
