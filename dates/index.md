@@ -7,7 +7,7 @@ excerpt: "Upcoming timetable and important events"
 
 ## Next session
 
-The next session of the XPMGla group will take place from **15:00-17:00** on **Friday 5th August**, in **Room 201, 11 University Gardens**. Please bring your own laptop/device, and feel free to attend for the full two hours or drop in and/or out as required.
+The next session of the XPMGla group will take place from **16:00-18:00** on **Friday 19th August**, in **Room 201, 11 University Gardens**. Please bring your own laptop/device, and feel free to attend for the full two hours or drop in and/or out as required.
 
 
 If you are not able to make the next session please also feel free to come along at a later date, or [contact]({{ site.url }}/contact/) the organisers if you would like to contribute to the group offsite.
@@ -16,10 +16,22 @@ If you are not able to make the next session please also feel free to come along
 
 |Date|Agenda|Venue|Notes|
 |:---|:---|:---|
-|05/08|Digital Humanities abstract work|Room 201, 11 University Gardens||
-|19/08|t.b.c.|Room t.b.c.||
-|02/09|t.b.c.|Room t.b.c.||
-|16/09|t.b.c.|Room t.b.c.||
+|19/08|Project work|Room 201, 11 University Gardens||
+|26/08|Project work|Room 201, 11 University Gardens||
+|02/09|Project work|Room 201, 11 University Gardens||
+|09/09|Project work|Room 201, 11 University Gardens||
+|16/09|Project work|Room 201, 11 University Gardens||
+|23/09|Project work|Room 201, 11 University Gardens||
+|30/09|Project work|Room 201, 11 University Gardens||
+|07/10|Project work|Room 201, 11 University Gardens||
+|14/10|Project work|Room 201, 11 University Gardens||
+|21/10|Project work|Room 201, 11 University Gardens||
+|28/10|Project work|Room 201, 11 University Gardens||
+|04/11|Project work|Room 201, 11 University Gardens||
+|11/11|Project work|Room 201, 11 University Gardens||
+|18/11|Project work|Room 201, 11 University Gardens||
+|25/11|Project work|Room 201, 11 University Gardens||
+|02/12|Project work|Room 201, 11 University Gardens||
 {: rules="groups"}
 
 
@@ -28,6 +40,7 @@ If you are not able to make the next session please also feel free to come along
 
 |Date|Agenda|Venue|Minutes|
 |:---|:---|:---|:---|
+|05/08|Digital Humanities abstract work|Room 201, 11 University Gardens||
 |22/07|Project work|Room 201, 11 University Gardens||
 |08/07|Project work|Room 201, 11 University Gardens||
 |24/06|Strathclyde Summer Project (SSE) Prep|Room 201, 11 University Gardens||
@@ -49,5 +62,5 @@ Events that might be interesting to group members will be posted here, and every
 
 |Date|Title|Description|Link
 |:---|:---|:---|:---|
-|No events|
+|12/09|The Digital Human: Humanities and Social Sciences in the Digital Age, University of Strathclyde|Conference|[Website](http://ewds.strath.ac.uk/Default.aspx?alias=ewds.strath.ac.uk/digihass2016)|
 {: rules="groups"}
