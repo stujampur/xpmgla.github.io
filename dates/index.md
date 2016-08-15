@@ -10,7 +10,13 @@ excerpt: "Upcoming timetable and important events"
 The next session of the XPMGla group will take place from **16:00-18:00** on **Friday 19th August**, in **Room 201, 11 University Gardens**. Please bring your own laptop/device, and feel free to attend for the full two hours or drop in and/or out as required.
 
 
+The group meets weekly on Fridays from 16:00-18:00 in Room 201, 11 University Gardens.
+
+
 If you are not able to make the next session please also feel free to come along at a later date, or [contact]({{ site.url }}/contact/) the organisers if you would like to contribute to the group offsite.
+
+
+<!---
 
 ## Upcoming sessions
 
@@ -55,6 +61,8 @@ If you are not able to make the next session please also feel free to come along
 |19/02|GitHub workshop / Landing page workshop|205, 5 University Gardens|[Link]({{ site.url }}/minutes-19th-february-2016/)|
 |05/02|Introductory meeting|STELLA|[Link]({{ site.url }}/minutes-5th-february-2016/)|
 {: rules="groups"}
+
+--->
 
 ## Interesting events
 
