@@ -7,10 +7,10 @@ excerpt: "Upcoming timetable and important events"
 
 ## Next session
 
-The next session of the XPMGla group will take place from **16:00-18:00** on **Friday 19th August**, in **Room 201, 11 University Gardens**. Please bring your own laptop/device, and feel free to attend for the full two hours or drop in and/or out as required.
+The next session of the XPMGla group will take place from **16:00-18:00** on **Friday 19th August**, in **Room 711, Boyd Orr**. Please bring your own laptop/device, and feel free to attend for the full two hours or drop in and/or out as required.
 
 
-The group meets weekly on Fridays from 16:00-18:00 in Room 201, 11 University Gardens.
+The group meets weekly on Fridays from 16:00-18:00 in Room 711, Boyd Orr.
 
 
 If you are not able to make the next session please also feel free to come along at a later date, or [contact]({{ site.url }}/contact/) the organisers if you would like to contribute to the group offsite.
