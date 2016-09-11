@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prelude: Crawl and Parse"
+title: "Guide - Crawl and Parse"
 author: Mo
 excerpt: "The preliminaries we need to go through in order to crawl and parse."
 tags: [python, crawl, parse]
