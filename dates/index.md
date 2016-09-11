@@ -7,7 +7,7 @@ excerpt: "Upcoming timetable and important events"
 
 ## Next session
 
-The next session of the XPMGla group will take place from **16:00-18:00** on **Friday 19th August**, in **Room 711, Boyd Orr**. Please bring your own laptop/device, and feel free to attend for the full two hours or drop in and/or out as required.
+The next session of the XPMGla group will take place from **16:00-18:00** on **Friday 16th September**, in **Room 711, Boyd Orr**. Please bring your own laptop/device, and feel free to attend for the full two hours or drop in and/or out as required.
 
 
 The group meets weekly on Fridays from 16:00-18:00 in Room 711, Boyd Orr.

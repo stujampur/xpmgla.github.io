@@ -6,7 +6,7 @@ excerpt: "XPMGla paper for the University of Strathclyde graduate conference 12t
 tags: [conference]
 comments: true
 ---
-The XPMGla team were accepted to the Digital Human conference at the Unversity of Strathcyde in September 2016. The group was represented at the conference by Irina, Elina and Stuart.
+The XPMGla team were accepted to the Digital Human conference at the Unversity of Strathcyde in September 2016. The group was represented at the conference by Elina, Irina and Stuart.
 
 <a href="http://ewds.strath.ac.uk/Default.aspx?alias=ewds.strath.ac.uk/digihass2016"><img id="digitalhuman" src="/images/TheDigitalHuman_Face.jpg" style="width:70%; height:70%"></a>
 <br>
