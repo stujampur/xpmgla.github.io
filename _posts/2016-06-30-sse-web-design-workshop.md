@@ -63,16 +63,6 @@ The recap, wireframing, and Creative Team tasks took place in the main base room
 *Tech Team Tasks*
 <iframe src="https://docs.google.com/presentation/d/1vgdSZuPv2G39b1wD3MkW66jzE0-3HPtpTPxeSmeEneI/embed?start=false&loop=false&delayms=3000" class="center" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br>
-<br>
-<br>
-<br>
-
-<img id="Wireframe_overview3" src="/images/SSE-images/Wireframe_overview3.jpg" class="rotate90">
-
-<br>
-<br>
-<br>
-<br>
 
 ### The outcome
 
@@ -84,6 +74,8 @@ As many of the pupils were keen to continue working on and developing their site
 
 [Student Handbook]({{ site.url }}/documents/SSE_Handbook.pdf) - a handbook containing all the workshop information and tasks.
 [Workshop Timetable]({{ site.url }}/documents/SSE_Timetable.pdf) - a rough idea of the timings of the workshop activities.
+
+<img id="Wireframe_overview3.5" src="/images/SSE-images/Wireframe_overview3.5.jpg">
 
 The wireframe kits were designed to match the HTML templates we assigned to each team, adapted from [HTML5Up.net](html5up.net):
 

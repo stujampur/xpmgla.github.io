@@ -31,7 +31,12 @@ article img {
 	box-shadow: 1px 1px 5px #999;
 	vertical-align: middle;
 	-ms-interpolation-mode: bicubic;
-}
+	}
+
+.rotate90 {
+		orientation: rotate 90;
+		position:relative;
+	}
 
 svg:not(:root) {
 		overflow: hidden;
@@ -74,6 +79,8 @@ svg:not(:root) {
 	padding: 10px;
 	border:0px;
 }
+
+
 
 /*
    Buttons
