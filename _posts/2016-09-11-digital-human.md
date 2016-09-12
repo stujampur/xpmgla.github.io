@@ -30,4 +30,4 @@ XPMGla was founded in February 2016 as a postgraduate research cluster aiming to
 
 
 
->This conference, hosted by the Strathclyde HaSS Graduate School, aims to celebrate interdisciplinary relationships by sharing postgraduate research that highlights the ways in which science, technology, humanities, and social sciences interact with one other. For more information about the conference, click on the links on the left.
+>This conference, hosted by the Strathclyde HaSS Graduate School, aims to celebrate interdisciplinary relationships by sharing postgraduate research that highlights the ways in which science, technology, humanities, and social sciences interact with one other.
