@@ -5,13 +5,11 @@ modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "Upcoming timetable and important events"
 ---
 
-## Next session
+## Sessions
 
-The next session of the XPMGla group will take place from **16:00-18:00** on **Friday 16th September**, in **Room 711, Boyd Orr**. Please bring your own laptop/device, and feel free to attend for the full two hours or drop in and/or out as required.
+The XPMGla group meets weekly **every Friday** from **16:00-18:00** in **Room 711, Boyd Orr**.
 
-
-The group meets weekly on Fridays from 16:00-18:00 in Room 711, Boyd Orr.
-
+Please bring your own laptop/device, and feel free to attend for the full two hours or drop in and/or out as required.
 
 If you are not able to make the next session please also feel free to come along at a later date, or [contact]({{ site.url }}/contact/) the organisers if you would like to contribute to the group offsite.
 
@@ -70,5 +68,5 @@ Events that might be interesting to group members will be posted here, and every
 
 |Date|Title|Description|Link
 |:---|:---|:---|:---|
-|12/09|The Digital Human: Humanities and Social Sciences in the Digital Age, University of Strathclyde|Conference|[Website](http://ewds.strath.ac.uk/Default.aspx?alias=ewds.strath.ac.uk/digihass2016)|
+|No events|
 {: rules="groups"}
