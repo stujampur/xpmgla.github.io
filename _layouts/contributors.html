@@ -33,7 +33,7 @@
     <h2>{{ author[1].name | default: "No Name Specified"}} {% if author[1].alias %}<small>[{{ author[1].alias }}]</small>{% endif %}</h2>
     <div class="article-wrap">
       <p>{% if author[1].role %}<strong>{{ author[1].role }}</strong><br/>{% endif %}
-        {% if author[1].role %}<a href="{{ author[1].website }}" target="_blank">{{ author[1].website }}</a><br/>{% endif %}
+        {% if author[1].role %}<a href="{{ author[1].web }}"target="_blank">{{ author[1].web }}</a><br/>{% endif %}
         {% if author[1].role %}<a href="mailto:{{ author[1].email }}">{{ author[1].email }}</a>{% endif %}
       </p>
       <p>
