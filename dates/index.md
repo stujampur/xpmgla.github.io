@@ -7,39 +7,26 @@ excerpt: "Upcoming timetable and important events"
 
 ## Sessions
 
-The XPMGla group meets weekly **every Friday** from **16:00-18:00** in **Room 711, Boyd Orr**.
+The XPMGla group meets weekly **every Friday** from **16:00-18:00** in **The Gilchrist Postgraduate Club Seminar Room**. Regular sessions focus on general project work. Irregular sessions, or sessions focusing on particular projects/topics are detailed below.
 
 Please bring your own laptop/device, and feel free to attend for the full two hours or drop in and/or out as required.
 
 If you are not able to make the next session please also feel free to come along at a later date, or [contact]({{ site.url }}/contact/) the organisers if you would like to contribute to the group offsite.
 
 
-<!---
 
-## Upcoming sessions
+## Irregular sessions
 
-|Date|Agenda|Venue|Notes|
+|Date|Time|Agenda|Venue|Notes|
 |:---|:---|:---|
-|19/08|Project work|Room 201, 11 University Gardens||
-|26/08|Project work|Room 201, 11 University Gardens||
-|02/09|Project work|Room 201, 11 University Gardens||
-|09/09|Project work|Room 201, 11 University Gardens||
-|16/09|Project work|Room 201, 11 University Gardens||
-|23/09|Project work|Room 201, 11 University Gardens||
-|30/09|Project work|Room 201, 11 University Gardens||
-|07/10|Project work|Room 201, 11 University Gardens||
-|14/10|Project work|Room 201, 11 University Gardens||
-|21/10|Project work|Room 201, 11 University Gardens||
-|28/10|Project work|Room 201, 11 University Gardens||
-|04/11|Project work|Room 201, 11 University Gardens||
-|11/11|Project work|Room 201, 11 University Gardens||
-|18/11|Project work|Room 201, 11 University Gardens||
-|25/11|Project work|Room 201, 11 University Gardens||
-|02/12|Project work|Room 201, 11 University Gardens||
+|05/05|17:00-18:00|Project work|Seminar Room, The Gilchrist Postgraduate||
+|19/05||No meeting|||
+|26/05||No meeting|||
+|04/06|17:00-18:00|Project work|Seminar Room, The Gilchrist Postgraduate||
 {: rules="groups"}
 
 
-
+<!---
 ## Past sessions
 
 |Date|Agenda|Venue|Minutes|
