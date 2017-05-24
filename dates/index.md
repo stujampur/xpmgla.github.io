@@ -55,5 +55,5 @@ Events that might be interesting to group members will be posted here, and every
 
 |Date|Title|Description|Link
 |:---|:---|:---|:---|
-|No events|
+|29/06|PubhD: Training Computers, Refraction Modelling, Bacteria Fights|A set of talks organised by Glasgow Skeptics|[Facebook Event](https://www.facebook.com/events/330624800714170/?ti=cl&__mref=mb)|
 {: rules="groups"}
