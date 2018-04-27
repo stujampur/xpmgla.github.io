@@ -15,14 +15,11 @@ If you are not able to make the next session please also feel free to come along
 
 
 
-## Irregular sessions
+## Meetings
 
 |Date|Time|Agenda|Venue|Notes|
 |:---|:---|:---|
-|05/05|17:00-18:00|Project work|Seminar Room, The Gilchrist Postgraduate||
-|19/05||No meeting|||
-|26/05||No meeting|||
-|04/06|17:00-18:00|Project work|Seminar Room, The Gilchrist Postgraduate||
+|11/05|17:00-19:00|Next Meeting|Seminar Room, The Gilchrist Postgraduate||
 {: rules="groups"}
 
 
@@ -49,11 +46,12 @@ If you are not able to make the next session please also feel free to come along
 
 --->
 
+<!---
 ## Interesting events
 
 Events that might be interesting to group members will be posted here, and everyone is welcome to contribute.
 
 |Date|Title|Description|Link
-|:---|:---|:---|:---|
-|29/06|PubhD: Training Computers, Refraction Modelling, Bacteria Fights|A set of talks organised by Glasgow Skeptics|[Facebook Event](https://www.facebook.com/events/330624800714170/?ti=cl&__mref=mb)|
 {: rules="groups"}
+
+--->
